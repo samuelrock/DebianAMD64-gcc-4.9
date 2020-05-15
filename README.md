@@ -12,7 +12,7 @@ apt-rdepends gcc-4.9 g++-4.9 gcc-4.9-multilib  | awk '$1 ~ /^Depends:/{print $2}
 This process looks up the dependencies for the requested program and downloads them in to the current 
 directory you are in.
 
-You can use wget to fetch the file to untar it and use dpkg -i *.deb to install.
+You can use gdown to fetch the file then untar it cd to the folder and use dpkg -i *.deb to install.
 
 Once you have gcc-4.9 installed you can install build-essential from Debian 9 this will give you both
 gcc 4.9 and 6.x you can then use the following to select 4.9 as the default and build what ever programs
