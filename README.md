@@ -3,7 +3,7 @@
 This is the .deb files from the Debian 8 repo for installing gcc-4.9 g++-4.9 and gcc-4.9-multilib
 I had to link them on google drive as the file is 85 megs and to big for github.
 
-https://drive.google.com/u/0/uc?export=download&confirm=bsgg&id=1F1nD3UR2BAj88uMKkf9hhi06hQVWS_0i
+https://drive.google.com/uc?export=download&confirm=bsgg&id=1F1nD3UR2BAj88uMKkf9hhi06hQVWS_0i
 
 These files were extracted on Debian 9 AMD64 by adding the jessie archive to sources.list and running 
 
